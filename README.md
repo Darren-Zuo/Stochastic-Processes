@@ -16,9 +16,9 @@ if you do understand Chinese, please learn this course, it's offers more than me
 
 ## Textbooks
 
-Papoullis - Probability, Random Variables and Stochastic Processes (solution manuals is also included)
-Samuelson - Economics (Worth reading if you're interested in Finance, option pricing in this book is related to Brownian Motion)
-张颢， 陆大全 - 随机过程及其应用(1st & 2nd edition)
+Papoullis - Probability, Random Variables and Stochastic Processes (solution manuals is also included) <br>
+Samuelson - Economics (Worth reading if you're interested in Finance, option pricing in this book is related to Brownian Motion)<br>
+张颢， 陆大全 - 随机过程及其应用(1st & 2nd edition)<br>
 张颢 - 概率论
 
 ### Prerequisites
