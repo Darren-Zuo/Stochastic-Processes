@@ -1,6 +1,6 @@
 # Stochastic Processes
 
-All the notes taken while learning Stochastic Processes and relevant textbooks
+Lecture notes, related textbooks of Stochastic Processes.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ All the notes taken while learning Stochastic Processes and relevant textbooks
 ## About
 
 course site: https://www.bilibili.com/video/BV1wj411k7Tj <br>
-if you do understand Chinese, please learn this course, it's offers more than mere theorems and derivations
+if you understand Chinese, it would be a remiss if you didn't watch this lecture. It's not the usual mathematical derivation setting, but filled with many other stuffs, like finance, artificial intelligence and stuff.
 
 ## Textbooks
 
@@ -34,6 +34,6 @@ No Analytic, No Understanding <br>
 No Programming, No Cognition 
 
 ### Syllabus
-1st: 3 types of Stochastic Processes(Correlation, Markox Property, Martingale); Geomterical View of Correlation (Projection); Introduces W.S.S (Wide Sense Stationary) <br>
+1st: 3 types of Stochastic Processes(Correlation, Markov Property, Martingale); Geometerical View of Correlation (Projection); Introduces W.S.S (Wide Sense Stationary) <br>
 2nd: Analyzes WSS in time domain (local properties could be extended to general properties) <br>
 3rd: Analyzes WSS in frequency domain (PSD, power spectrum density); PSD: Fourier Transform of Correlation Function; Derivation of PSD and spectral representation of PSD; Analyze LTI response of Random Signals via spectral representation <br>
