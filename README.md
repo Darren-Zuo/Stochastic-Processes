@@ -13,7 +13,7 @@ Lecture notes, related textbooks of Stochastic Processes.
 ## About
 
 course site: https://www.bilibili.com/video/BV1wj411k7Tj <br>
-if you understand Chinese, it would be a remiss if you didn't watch this lecture. It's not the usual mathematical derivation setting, but filled with many other stuffs, like finance, artificial intelligence and stuff.
+if you understand Chinese, it would be a remiss if you didn't watch this lecture. It's not the usual mathematical derivation setting, but filled with many other stuffs, like finance, artificial intelligence (diffusion MODEL) and stuff.
 
 ## Textbooks
 
