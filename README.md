@@ -8,6 +8,7 @@ All the notes taken while learning Stochastic Processes and relevant textbooks
 - [Textbooks](#textbooks)
   - [Prerequisites](#prerequisites)
   - [Course_Maxim](#course_maxim)
+  - [Syllabus](#syllabus)
 
 ## About
 
@@ -31,3 +32,8 @@ No Writing, No Reading <br>
 No Data, No Truth <br>
 No Analytic, No Understanding <br>
 No Programming, No Cognition 
+
+### Syllabus
+1st: 3 types of Stochastic Processes(Correlation, Markox Property, Martingale); Geomterical View of Correlation (Projection); Introduces W.S.S (Wide Sense Stationary) <br>
+2nd: Analyzes WSS in time domain (local properties could be extended to general properties) <br>
+3rd: Analyzes WSS in frequency domain (PSD, power spectrum density); PSD: Fourier Transform of Correlation Function; Derivation of PSD and spectral representation of PSD; Analyze LTI response of Random Signals via spectral representation <br>
