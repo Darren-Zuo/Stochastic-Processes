@@ -22,18 +22,18 @@ Samuelson - Economics (Worth reading if you're interested in Finance, option pri
 张颢， 陆大全 - 随机过程及其应用(1st & 2nd edition)<br>
 张颢 - 概率论
 
-### Prerequisites
+## Prerequisites
 
 Calculus, Linear Algebra
 
-### Course_Maxim
+## Course_Maxim
 No Reading, No Learning <br>
 No Writing, No Reading <br>
 No Data, No Truth <br>
 No Analytic, No Understanding <br>
 No Programming, No Cognition 
 
-### Syllabus
+## Syllabus
 1st: 3 types of Stochastic Processes(Correlation, Markov Property, Martingale); Geometerical View of Correlation (Projection); Introduces W.S.S (Wide Sense Stationary) <br>
 2nd: Analyzes WSS in time domain (local properties could be extended to general properties) <br>
 3rd: Analyzes WSS in frequency domain (PSD, power spectrum density); PSD: Fourier Transform of Correlation Function; Derivation of PSD and spectral representation of PSD; Analyze LTI response of Random Signals via spectral representation <br>
