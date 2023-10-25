@@ -38,8 +38,8 @@ No Programming, No Cognition
 2nd - Analyzes WSS in time domain (local properties could be extended to general properties) <br>
 3rd Spectral Analysis - Analyzes WSS in frequency domain (PSD, power spectrum density); PSD: Fourier Transform of Correlation Function; Derivation of PSD and spectral representation of PSD; Analyze LTI response of Random Signals via spectral representation <br>
 4th Spectral Representation and K-L expansion - <br>
-5th Non-Stationary Processes - Cyclostationary & Orthogonal Increments
-6th Stochastic Calculus - 4 types of convergence
-7th Gaussian Everywhere
-8th Gaussian Processes
-9th Gaussian Processes 2
+5th Non-Stationary Processes - Cyclostationary & Orthogonal Increments <br>
+6th Stochastic Calculus - 4 types of convergence <br>
+7th Gaussian Everywhere <br>
+8th Gaussian Processes <br>
+9th Gaussian Processes 2 <br>
