@@ -6,9 +6,9 @@ Lecture notes, related textbooks of Stochastic Processes.
 
 - [About](#about)
 - [Textbooks](#textbooks)
-  - [Prerequisites](#prerequisites)
-  - [Course_Maxim](#course_maxim)
-  - [Syllabus](#syllabus)
+- [Prerequisites](#prerequisites)
+- [Course_Maxim](#course_maxim)
+- [Syllabus](#syllabus)
 
 ## About
 
