@@ -35,66 +35,57 @@ No Programming, No Cognition
 
 ## Lecture Syllabus
 
-### 1st Lecture
-- Introduction to Stochastic Processes
-  - Types: Correlation, Markov Property, Martingale
-  - Geometrical View of Correlation (Projection)
-  - Introduction to Wide Sense Stationary (W.S.S)
+### 1st Introduction to Stochastic Processes
+- Types: Correlation, Markov Property, Martingale
+- Geometrical View of Correlation (Projection)
+- Introduction to Wide Sense Stationary (W.S.S)
 
-### 2nd Lecture
-- Analysis of W.S.S in the Time Domain
-  - Local Properties and Their Extension to General Properties
+### 2nd Analysis of W.S.S in the Time Domain
+- Local Properties and Their Extension to General Properties
 
-### 3rd Lecture
-- Spectral Analysis of W.S.S
-  - Frequency Domain Analysis
-  - Power Spectrum Density (PSD)
-    - Definition and Properties
-  - PSD as Fourier Transform of Correlation Function
-  - Derivation of PSD and Spectral Representation
-  - Analyzing Linear Time-Invariant (LTI) Response of Random Signals via Spectral Representation
+### 3rd Spectral Analysis of W.S.S
+- Frequency Domain Analysis
+- Power Spectrum Density (PSD): Fourier Transform of Correlation Function
+- Derivation of PSD and Spectral Representation
+- Analyzing Linear Time-Invariant (LTI) Response of Random Signals via Spectral Representation
 
 ## 4th Lecture
 - Spectral Representation and Karhunen-Loève (K-L) Expansion
 
 ### 5th Lecture
 - Non-Stationary Processes
-  - Cyclostationary Processes
-  - Randomization (Random Phase) and its Conversion to W.S.S
+  - Cyclostationary Processes: 
+    - Randomization (Random Phase) and its Conversion to W.S.S
   - Orthogonal Increments
 
-### 6th Lecture
-- Stochastic Calculus
-  - Four Types of Convergence
-    - Mean Square Convergence
-    - Almost Surely Convergence
-    - Convergence in Probability
-    - Convergence in Distribution
-  - Extending Calculus Concepts to Stochastic Calculus
-  - Quantifying 'Nearness' in Stochastic Calculus
+### 6th Stochastic Calculus
+- Extending Calculus Concepts (essence: limit) to Stochastic Calculus
+- Calculus
+  - Convergence: Pointwise, Uniform, Integration/Power Bound
+- Four Types of Convergence in Stochastic Calculus
+  - Mean Square Convergence (mean square value as distance/'nearness')
+  - Almost Surely Convergence
+  - Convergence in Probability
+  - Convergence in Distribution
+- Corresponding for three types of convergence
   - Strong Law of Large Numbers (SLLN)
   - Weak Law of Large Numbers (WLLN)
   - Central Limit Theorem (CLT)
 
-### 7th Lecture
-- Gaussian Everywhere
-  - Two Scenarios:
-    - Diffusion Equation
-      - Einstein's Assumption and Derivation
-    - Maximum Entropy
-    - Functional Analysis
+### 7th Gaussian Everywhere
+- Two Scenarios:
+    - Diffusion Equation: Einstein's Assumption and Derivation
+    - Maximum Entropy: Functional Analysis as tools
 
-### 8th Lecture
-- Gaussian Processes
-  - Familiarization with Matrix Operations
-  - Linearity Property of Gaussian Processes
-    - Remaining Gaussian after Linear Transformations
+### 8th Gaussian Processes
+- Familiarization with Matrix Operations
+- Linearity Property of Gaussian Processes: Remaining Gaussian after Linear Transformations
 
-### 9th Lecture
-- Gaussian Processes (Continued)
+### 9th Gaussian Processes (Continued)
+- 
 
-### 10th Lecture
-- Gaussian and Nonlinear
+### 10th Gaussian and Nonlinearity
+- 
   - Sending Gaussian Signals through Non-Linear Filters
   - Two Approaches:
     1. Square Law
