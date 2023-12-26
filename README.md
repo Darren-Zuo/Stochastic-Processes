@@ -13,10 +13,11 @@ Lecture notes, related textbooks of Stochastic Processes.
 ## About
 
 course site: https://www.bilibili.com/video/BV1wj411k7Tj <br>
-if you understand Chinese, it would be a remiss if you didn't watch this lecture. It's not the usual mathematical derivation setting, but filled with many other stuffs, like finance, artificial intelligence (diffusion MODEL) and stuff.
+Handwritten notes are updated, latex-based note will soon be organized and updated.
 
 ## Textbooks
 
+Probability Theory Recap (Course video site:https://www.youtube.com/playlist?list=PLbMVogVj5nJQqGHrpAloTec_lOKsG-foc) <br>
 Papoullis - Probability, Random Variables and Stochastic Processes (solution manuals is also included) <br>
 Samuelson - Economics (Worth reading if you're interested in Finance, option pricing in this book is related to Brownian Motion)<br>
 张颢， 陆大全 - 随机过程及其应用(1st & 2nd edition)<br>
